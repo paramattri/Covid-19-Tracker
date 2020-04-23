@@ -1,7 +1,7 @@
 # Covid-19-Tracker
 
 ## Description 
-A web application that shows number of COVID-19 cases in India plotted on a Choropleth Map. Application also allow users to view and interact with India's State-wise cases on a Bar Graph.
+A web application that shows number of COVID-19 cases in India plotted on a Choropleth Map. Application also allow users to view and interact with India's State-wise cases on a Bar Graph using Drop-down menu.
 
 ## Installation
 Create a virtual environment for the required libraries (Recommended but not necessary).
