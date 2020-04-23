@@ -16,3 +16,5 @@ Steps to Follow:
 After following the above installation steps, just run the python script i.e covid_web.py.
 
 This is how the web application will look and work.
+
+![Dash-Google-Chrome-2020-04-22-22](https://user-images.githubusercontent.com/60289706/80123931-27b17880-85ad-11ea-9406-734604788616.gif)
