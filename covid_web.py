@@ -16,7 +16,7 @@ df=dfs[0]
 
 # Removing the last 3 rows using slicing
 # This step is very important because the data in the govt. website keeps on Changing, So first look at the govt. website to see how many rows you have to delete.
-df=df.iloc[0:-3,:] 
+df=df.iloc[0:-4,:] 
 
 # Removing the first column of S. No.
 df=df.drop('S. No.',axis=1)
